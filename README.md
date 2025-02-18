@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a speical project close to me, because it will be a crossplatform app for my household and family. It might become an online available project but it's still in progress...
 <!--
 **WinterLord15/WinterLord15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
